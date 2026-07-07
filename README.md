@@ -29,7 +29,7 @@ Every authenticated user has access only to their own notes, ensuring data priva
 
 Download the latest Android APK from the **Releases** section.
 
-➡️ **Latest Release:** https://github.com/UtkarshRaj003/Notes-App/releases/latest
+➡️ **Latest Release:** https://github.com/UtkarshRaj003/Flutter-Notes-App/releases/tag/v1.0.0
 
 ---
 
