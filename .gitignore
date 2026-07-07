@@ -1,0 +1,12 @@
+Backend:
+
+node_modules
+.env
+
+
+Frontend:
+
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
