@@ -25,6 +25,14 @@ Every authenticated user has access only to their own notes, ensuring data priva
 
 ---
 
+## 📦 Download APK
+
+Download the latest Android APK from the **Releases** section.
+
+➡️ **Latest Release:** https://github.com/UtkarshRaj003/Notes-App/releases/latest
+
+---
+
 # ✨ Features
 
 ## 🔐 Authentication
