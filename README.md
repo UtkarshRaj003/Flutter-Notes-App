@@ -108,20 +108,62 @@ Every authenticated user has access only to their own notes, ensuring data priva
 
 # 📱 Screenshots
 
-> Add your screenshots inside the `screenshots` folder.
+<table>
+  <tr>
+    <td align="center">
+      <strong>Splash Screen</strong><br><br>
+      <img src="screenshots/01_splash.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Login</strong><br><br>
+      <img src="screenshots/02_login.png" width="250"/>
+    </td>
+  </tr>
 
-| Screen        | Image                          |
-| ------------- | ------------------------------ |
-| Splash Screen | screenshots/01_splash.png      |
-| Login         | screenshots/02_login.png       |
-| Register      | screenshots/03_register.png    |
-| Home          | screenshots/04_home.png        |
-| Create Note   | screenshots/05_create_note.png |
-| Edit Note     | screenshots/06_edit_note.png   |
-| Search        | screenshots/07_search.png      |
-| Tags          | screenshots/08_tags.png        |
-| Profile       | screenshots/09_profile.png     |
-| Dark Mode     | screenshots/10_dark_mode.png   |
+  <tr>
+    <td align="center">
+      <strong>Register</strong><br><br>
+      <img src="screenshots/03_register.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Home</strong><br><br>
+      <img src="screenshots/04_home.png" width="250"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Create Note</strong><br><br>
+      <img src="screenshots/05_create_note.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Edit Note</strong><br><br>
+      <img src="screenshots/06_edit_note.png" width="250"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Search Notes</strong><br><br>
+      <img src="screenshots/07_search.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Tag Filtering</strong><br><br>
+      <img src="screenshots/08_tags.png" width="250"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Profile</strong><br><br>
+      <img src="screenshots/09_profile.png" width="250"/>
+    </td>
+    <td align="center">
+      <strong>Dark Mode</strong><br><br>
+      <img src="screenshots/10_dark_mode.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -292,7 +334,7 @@ Logout
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Notes-App.git
+git clone https://github.com/UtkarshRaj003/Flutter-Notes-App
 ```
 
 ---
@@ -414,8 +456,8 @@ This project demonstrates practical experience with:
 
 ### Connect with Me
 
-* LinkedIn: *(Add your LinkedIn profile)*
-* GitHub: *(Add your GitHub profile)*
+* LinkedIn: *www.linkedin.com/in/utkarsh-raj-812713303*
+* GitHub: *https://github.com/UtkarshRaj003/*
 
 ---
 
