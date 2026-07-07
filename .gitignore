@@ -1,10 +1,10 @@
-Backend:
+# Backend:
 
 node_modules
 .env
 
 
-Frontend:
+# Frontend:
 
 build/
 .dart_tool/
