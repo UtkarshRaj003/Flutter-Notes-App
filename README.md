@@ -115,55 +115,67 @@ Every authenticated user has access only to their own notes, ensuring data priva
       <img src="screenshots/01_splash.png" width="250"/>
     </td>
     <td align="center">
-      <strong>Login</strong><br><br>
+      <strong>Login Screen</strong><br><br>
       <img src="screenshots/02_login.png" width="250"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>Register</strong><br><br>
+      <strong>Register Screen</strong><br><br>
       <img src="screenshots/03_register.png" width="250"/>
     </td>
     <td align="center">
-      <strong>Home</strong><br><br>
-      <img src="screenshots/04_home.png" width="250"/>
+      <strong>Home (Light Mode)</strong><br><br>
+      <img src="screenshots/04_home_light.png" width="250"/>
     </td>
   </tr>
 
   <tr>
+    <td align="center">
+      <strong>Home (Dark Mode)</strong><br><br>
+      <img src="screenshots/05_home_dark.png" width="250"/>
+    </td>
     <td align="center">
       <strong>Create Note</strong><br><br>
-      <img src="screenshots/05_create_note.png" width="250"/>
+      <img src="screenshots/06_create_note.png" width="250"/>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <strong>Edit Note</strong><br><br>
-      <img src="screenshots/06_edit_note.png" width="250"/>
+      <img src="screenshots/07_edit_note.png" width="250"/>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <strong>Search Notes</strong><br><br>
-      <img src="screenshots/07_search.png" width="250"/>
-    </td>
-    <td align="center">
-      <strong>Tag Filtering</strong><br><br>
-      <img src="screenshots/08_tags.png" width="250"/>
+      <img src="screenshots/08_search.png" width="250"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <strong>Profile</strong><br><br>
-      <img src="screenshots/09_profile.png" width="250"/>
+      <strong>Tag Filtering</strong><br><br>
+      <img src="screenshots/09_tags.png" width="250"/>
     </td>
     <td align="center">
-      <strong>Dark Mode</strong><br><br>
-      <img src="screenshots/10_dark_mode.png" width="250"/>
+      <strong>Profile Screen</strong><br><br>
+      <img src="screenshots/10_profile.png" width="250"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Delete Confirmation Dialog</strong><br><br>
+      <img src="screenshots/11_delete_dialog.png" width="250"/>
+    </td>
+    <td align="center" colspan="2">
+      <strong>Archived Screen</strong><br><br>
+      <img src="screenshots/12_archived.png" width="250"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
